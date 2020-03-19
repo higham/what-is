@@ -1,7 +1,8 @@
-What-Is: short articles on important topics in numerical analysis.
-===========
+* What-Is 
 
-* Contents
+Short articles on important topics in numerical analysis.
+
+** Contents
 
 This is a series of ``What Is" articles, which 
 give brief descriptions of important concepts in numerical
@@ -25,7 +26,8 @@ and are provided in PDF form in this repository.
 The PDF files contain hyperlinks, which are clickable in the PDF but 
 not visible in a printout.
 
-- What is a Condition Number?
+The articles are
+- [[https://github.com/higham/what-is/blob/master/cond.pdf][What is a Condition Number?]]
 # - What Is a Random Orthogonal Matrix?
 # - What Is a Correlation Matrix?
 
