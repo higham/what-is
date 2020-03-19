@@ -1,0 +1,32 @@
+What-Is: short articles on important topics in numerical analysis.
+===========
+
+* Contents
+
+This is a series of ``What Is" articles, which 
+give brief descriptions of important concepts in numerical
+analysis
+and related areas, with a focus on topics that arise in my research.
+
+My aim is for the articles to adhere to the following criteria.
+
+- The posts are no more than two or three screenfuls (about 500 words).
+- The posts contain a minimum of mathematical symbols and equations and a
+  minimum of citations.  
+- They are accessible to upper level undergraduate students in any
+  mathematically oriented subject.
+- The list of references given for further reading is very small
+  and concentrates on those that are broad, readable, and contain
+  further references to the literature.
+
+The articles are available in blog form at
+https://nhigham.com/category/what-is/
+and are provided in PDF form in this repository.
+The PDF files contain hyperlinks, which are clickable in the PDF but 
+not visible in a printout.
+
+- What is a Condition Number?
+# - What Is a Random Orthogonal Matrix?
+# - What Is a Correlation Matrix?
+
+
