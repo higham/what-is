@@ -1,13 +1,8 @@
 * What-Is 
 
-Short articles on important topics in numerical analysis.
-
-** Contents
-
-This is a series of ``What Is" articles, which 
-give brief descriptions of important concepts in numerical
-analysis
-and related areas, with a focus on topics that arise in my research.
+This is a series of ``What Is" articles, which give brief descriptions of
+important concepts in numerical analysis and related areas, with a focus on
+topics that arise in my research.
 
 My aim is for the articles to adhere to the following criteria.
 
