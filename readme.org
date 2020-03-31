@@ -23,8 +23,8 @@ not visible in a printout.
 
 The articles are
 - [[https://github.com/higham/what-is/blob/master/cond.pdf][What Is a Condition Number?]]
-- [[https://nhigham.com/2020/03/25/what-is-backward-error/][What Is Backward Error?]]
-- [[https://nhigham.com/2020/03/31/what-is-a-matrix/][What Is a Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/berr.pdf][What Is Backward Error?]]
+- [[https://github.com/higham/what-is/blob/master/matrix.pdf][What Is a Matrix?]]
 # - What Is a Random Orthogonal Matrix?
 # - What Is a Correlation Matrix?
 
