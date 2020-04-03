@@ -25,6 +25,7 @@ The articles are
 - [[https://github.com/higham/what-is/blob/master/cond.pdf][What Is a Condition Number?]]
 - [[https://github.com/higham/what-is/blob/master/berr.pdf][What Is Backward Error?]]
 - [[https://github.com/higham/what-is/blob/master/matrix.pdf][What Is a Matrix?]]
+- [[https://nhigham.com/2020/04/03/what-is-a-generalized-inverse/][What Is a Generalized Inverse?]]
 # - What Is a Random Orthogonal Matrix?
 # - What Is a Correlation Matrix?
 
