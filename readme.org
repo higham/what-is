@@ -27,6 +27,7 @@ The articles are
 - [[https://github.com/higham/what-is/blob/master/matrix.pdf][What Is a Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/geninv.pdf][What Is a Generalized Inverse?]]
 - [[https://github.com/higham/what-is/blob/master/orthog.pdf][What Is an Orthogonal Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/hadamard.pdf][What Is a Hadamard Matrix?]]
 # - What Is a Random Orthogonal Matrix?
 # - What Is a Correlation Matrix?
 
