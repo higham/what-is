@@ -31,5 +31,6 @@ The articles are
 - [[https://github.com/higham/what-is/blob/master/correlation.pdf][What Is a Correlation Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/randorth.pdf][What Is a Random Orthogonal Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/rounding.pdf][What Is Rounding?]]
-
+- [[https://github.com/higham/what-is/blob/master/float_arith.pdf][What Is Floating-Point Arithmetic?]]
+ 
 
