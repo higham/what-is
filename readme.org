@@ -32,5 +32,6 @@ The articles are
 - [[https://github.com/higham/what-is/blob/master/randorth.pdf][What Is a Random Orthogonal Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/rounding.pdf][What Is Rounding?]]
 - [[https://github.com/higham/what-is/blob/master/float_arith.pdf][What Is Floating-Point Arithmetic?]]
+- [[https://github.com/higham/what-is/blob/master/ieee_arith.pdf][What Is IEEE Standard Arithmetic?]]
  
 
