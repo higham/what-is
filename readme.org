@@ -34,5 +34,6 @@ The articles are
 - [[https://github.com/higham/what-is/blob/master/float_arith.pdf][What Is Floating-Point Arithmetic?]]
 - [[https://github.com/higham/what-is/blob/master/ieee_arith.pdf][What Is IEEE Standard Arithmetic?]]
 - [[https://github.com/higham/what-is/blob/master/square_root.pdf][What Is a Matrix Square Root?]]
+- [[https://github.com/higham/what-is/blob/master/matrix_exponential.pdf][What Is the Matrix Exponential?]]
  
 
