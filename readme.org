@@ -21,7 +21,7 @@ and are provided in PDF form in this repository.
 The PDF files contain hyperlinks, which are clickable in the PDF but 
 not visible in a printout.
 
-The articles are
+The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/cond.pdf][What Is a Condition Number?]]
 - [[https://github.com/higham/what-is/blob/master/berr.pdf][What Is Backward Error?]]
 - [[https://github.com/higham/what-is/blob/master/matrix.pdf][What Is a Matrix?]]
@@ -36,5 +36,6 @@ The articles are
 - [[https://github.com/higham/what-is/blob/master/square_root.pdf][What Is a Matrix Square Root?]]
 - [[https://github.com/higham/what-is/blob/master/matrix_exponential.pdf][What Is the Matrix Exponential?]]
 - [[https://github.com/higham/what-is/blob/master/bfloat16.pdf][What Is Bfloat16 Arithmetic?]]
+- [[https://github.com/higham/what-is/blob/master/matrix_function.pdf][What Is a Matrix Function?]]
  
 
