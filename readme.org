@@ -37,5 +37,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/matrix_exponential.pdf][What Is the Matrix Exponential?]]
 - [[https://github.com/higham/what-is/blob/master/bfloat16.pdf][What Is Bfloat16 Arithmetic?]]
 - [[https://github.com/higham/what-is/blob/master/matrix_function.pdf][What Is a Matrix Function?]]
+- [[https://github.com/higham/what-is/blob/master/adjugate.pdf][What Is the Adjugate of a Matrix?]]
  
 
