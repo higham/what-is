@@ -41,5 +41,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/frechet.pdf][What Is a Fréchet Derivative?]]
 - [[https://github.com/higham/what-is/blob/master/hilbert_matrix.pdf][What Is the Hilbert Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/stochround.pdf][What Is Stochastic Rounding?]]
+- [[https://github.com/higham/what-is/blob/master/growth_factor.pdf][What Is the Growth Factor for Gaussian Elimination?]]
  
 
