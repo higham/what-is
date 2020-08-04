@@ -44,5 +44,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/growth_factor.pdf][What Is the Growth Factor for Gaussian Elimination?]]
 - [[https://github.com/higham/what-is/blob/master/symm_pos_def.pdf][What Is a Symmetric Positive Definite Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/polar_decomp.pdf][What Is the Polar Decomposition?]]
+- [[https://github.com/higham/what-is/blob/master/numerical-stability.pdf][What Is the Numerical Stability?]]
  
 
