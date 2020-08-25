@@ -47,5 +47,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/numerical-stability.pdf][What Is Numerical Stability?]]
 - [[https://github.com/higham/what-is/blob/master/cholesky.pdf][What Is a Cholesky Factorization?]]
 - [[https://github.com/higham/what-is/blob/master/gerstenhaber.pdf][What Is the Gerstenhaber Problem?]]
+- [[https://github.com/higham/what-is/blob/master/kronprod.pdf][What Is the Kronecker Probduct?]]
  
 
