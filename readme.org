@@ -51,5 +51,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/sylvester_eqn.pdf][What Is the Sylvester Equation?]]
 - [[https://github.com/higham/what-is/blob/master/sparse.pdf][What Is a Sparse Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/householder.pdf][What Is a Housholder Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/block_matrix.pdf][What Is a Block Matrix?]]
  
 
