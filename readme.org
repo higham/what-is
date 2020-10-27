@@ -55,4 +55,5 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/sherman_morrison.pdf][What Is the Sherman--Morrison--Woodbury Formula?]] 
 - [[https://github.com/higham/what-is/blob/master/complex_step.pdf][What Is the Complex Step Approximation?]] 
 - [[https://github.com/higham/what-is/blob/master/svd.pdf][What Is the Singular Value Decomposition?]] 
+- [[https://github.com/higham/what-is/blob/master/csd.pdf][What Is the CS Decomposition?]] 
 
