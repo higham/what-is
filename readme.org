@@ -57,4 +57,5 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/svd.pdf][What Is the Singular Value Decomposition?]] 
 - [[https://github.com/higham/what-is/blob/master/csd.pdf][What Is the CS Decomposition?]] 
 - [[https://github.com/higham/what-is/blob/master/cayley-hamilton.pdf][What Is the Cayley--Hamilton Theorem?]] 
+- [[https://github.com/higham/what-is/blob/master/qr.pdf][What Is a QR Factorization?]] 
 
