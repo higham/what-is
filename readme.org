@@ -63,3 +63,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/unwinding.pdf][What Is the Matrix Unwinding Function?]] 
 - [[https://github.com/higham/what-is/blob/master/fractional_power.pdf][What Is a Fractional Matrix Power?]] 
 - [[https://github.com/higham/what-is/blob/master/matrix_sign.pdf][What Is the Matrix Sign Function?]] 
+- [[https://github.com/higham/what-is/blob/master/mod_chol.pdf][What Is a Modified Cholesky Factorization?]] 
