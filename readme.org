@@ -66,3 +66,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/mod_chol.pdf][What Is a Modified Cholesky Factorization?]] 
 - [[https://github.com/higham/what-is/blob/master/logsumexp.pdf][What Is the Log-Sum-Exp Function?]] 
 - [[https://github.com/higham/what-is/blob/master/softmax.pdf][What Is the Softmax Function?]] 
+- [[https://github.com/higham/what-is/blob/master/near_symm.pdf][What Is the Nearest Symmetric Matrix?]] 
