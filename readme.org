@@ -68,3 +68,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/softmax.pdf][What Is the Softmax Function?]] 
 - [[https://github.com/higham/what-is/blob/master/near_symm.pdf][What Is the Nearest Symmetric Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/near_psd.pdf][What Is the Nearest Positive Semidefinite Matrix?]] 
+- [[https://github.com/higham/what-is/blob/master/unit_inv_norm.pdf][What Is a Unitarily Invariant Norm?]] 
