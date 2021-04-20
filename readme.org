@@ -72,3 +72,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/m-matrix.pdf][What Is an M-Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/companion.pdf][What Is a Companion Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/diag_dom.pdf][What Is a Diagonally Dominant Matrix?]] 
+- [[https://github.com/higham/what-is/blob/master/lu.pdf][What Is an LU Factorization?]] 
