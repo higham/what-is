@@ -75,3 +75,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/lu.pdf][What Is an LU Factorization?]] 
 - [[https://github.com/higham/what-is/blob/master/pseudo_orthog.pdf][What Is a Pseudo-Orthogonal Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/rrf.pdf][What Is a Rank-Revealing Factorization?]] 
+- [[https://github.com/higham/what-is/blob/master/wilson.pdf][What Is the Wilson Matrix?]] 
