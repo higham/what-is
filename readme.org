@@ -77,3 +77,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/rrf.pdf][What Is a Rank-Revealing Factorization?]] 
 - [[https://github.com/higham/what-is/blob/master/wilson.pdf][What Is the Wilson Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/vandermonde.pdf][What Is a Vandermonde Matrix?]] 
+- [[https://github.com/higham/what-is/blob/master/determinant.pdf][What Is the Determinant of a Matrix?]] 
