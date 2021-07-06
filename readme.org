@@ -38,7 +38,7 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/bfloat16.pdf][What Is Bfloat16 Arithmetic?]]
 - [[https://github.com/higham/what-is/blob/master/matrix_function.pdf][What Is a Matrix Function?]]
 - [[https://github.com/higham/what-is/blob/master/adjugate.pdf][What Is the Adjugate of a Matrix?]]
-- [[https://github.com/higham/what-is/blob/master/frechet.pdf][What Is a Fr�chet Derivative?]]
+- [[https://github.com/higham/what-is/blob/master/frechet.pdf][What Is a Fréchet Derivative?]]
 - [[https://github.com/higham/what-is/blob/master/hilbert_matrix.pdf][What Is the Hilbert Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/stochround.pdf][What Is Stochastic Rounding?]]
 - [[https://github.com/higham/what-is/blob/master/growth_factor.pdf][What Is the Growth Factor for Gaussian Elimination?]]
@@ -78,3 +78,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/wilson.pdf][What Is the Wilson Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/vandermonde.pdf][What Is a Vandermonde Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/determinant.pdf][What Is the Determinant of a Matrix?]] 
+- [[https://github.com/higham/what-is/blob/master/kms.pdf][What Is the Kac–Murdock-Szegö Matrix?]]
