@@ -79,3 +79,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/vandermonde.pdf][What Is a Vandermonde Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/determinant.pdf][What Is the Determinant of a Matrix?]] 
 - [[https://github.com/higham/what-is/blob/master/kms.pdf][What Is the Kac–Murdock-Szegö Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/perron-frobenius.pdf][What Is the Perron--Frobenius Theorem?]]
