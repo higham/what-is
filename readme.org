@@ -81,3 +81,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/kms.pdf][What Is the Kac–Murdock-Szegö Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/perron-frobenius.pdf][What Is the Perron--Frobenius Theorem?]]
 - [[https://github.com/higham/what-is/blob/master/totally_nonneg.pdf][What Is a Totally Nonnegative Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/norm_vector.pdf][What Is a Vector Norm?]]
