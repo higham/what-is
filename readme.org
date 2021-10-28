@@ -83,3 +83,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/totally_nonneg.pdf][What Is a Totally Nonnegative Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/norm_vector.pdf][What Is a Vector Norm?]]
 - [[https://github.com/higham/what-is/blob/master/norm_matrix.pdf][What Is a Matrix Norm?]]
+- [[https://github.com/higham/what-is/blob/master/blocked.pdf][What Is a Blocked Algorithm?]]
