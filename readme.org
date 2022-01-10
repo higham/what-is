@@ -84,4 +84,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/norm_vector.pdf][What Is a Vector Norm?]]
 - [[https://github.com/higham/what-is/blob/master/norm_matrix.pdf][What Is a Matrix Norm?]]
 - [[https://github.com/higham/what-is/blob/master/blocked.pdf][What Is a Blocked Algorithm?]]
-- [[https://github.com/higham/what-is/blob/master/tridiagonal.pdf][What Is a Tridiagonal Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/tridiag.pdf][What Is a Tridiagonal Matrix?]]
