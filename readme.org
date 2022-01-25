@@ -86,3 +86,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/blocked.pdf][What Is a Blocked Algorithm?]]
 - [[https://github.com/higham/what-is/blob/master/tridiag.pdf][What Is a Tridiagonal Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/log_norm.pdf][What Is the Logarithmic Norm?]]
+- [[https://github.com/higham/what-is/blob/master/frank.pdf][What Is the Frank Matrix?]]
