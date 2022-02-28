@@ -88,3 +88,4 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/log_norm.pdf][What Is the Logarithmic Norm?]]
 - [[https://github.com/higham/what-is/blob/master/frank.pdf][What Is the Frank Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/second_diff.pdf][What Is the Second Difference Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/jcf.pdf][What Is the Jordan Canonical Form?]]
