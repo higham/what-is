@@ -89,4 +89,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/frank.pdf][What Is the Frank Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/second_diff.pdf][What Is the Second Difference Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/jcf.pdf][What Is the Jordan Canonical Form?]]
-- [[https://github.com/higham/what-is/blob/master/backslash.pdf][What Is A\A]]
+- [[https://github.com/higham/what-is/blob/master/backslash.pdf][What Is A\A?]]
+- [[https://github.com/higham/what-is/blob/master/inverse.pdf][What Is the Matrix Inverse?]]
+
