@@ -91,4 +91,5 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/jcf.pdf][What Is the Jordan Canonical Form?]]
 - [[https://github.com/higham/what-is/blob/master/backslash.pdf][What Is A\A?]]
 - [[https://github.com/higham/what-is/blob/master/inverse.pdf][What Is the Matrix Inverse?]]
+- [[https://github.com/higham/what-is/blob/master/permutation.pdf][What Is a Permutation Matrix?]]
 
