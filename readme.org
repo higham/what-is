@@ -95,4 +95,5 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/schur.pdf][What Is a Schur Decomposition?]]
 - [[https://github.com/higham/what-is/blob/master/pascal.pdf][What Is the Pascal Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/fmm.pdf][What Is Fast Matrix Multiplication?]]
+- [[https://github.com/higham/what-is/blob/master/circulant.pdf][What Is a Circulant Matrix?]]
 
