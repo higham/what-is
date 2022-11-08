@@ -98,4 +98,5 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/circulant.pdf][What Is a Circulant Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/toeplitz.pdf][What Is a Toeplitz Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/symmindef.pdf][What Is a Symmetric Indefinite Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/eigenvalue.pdf][What Is an Eigenvalue?]]
 
