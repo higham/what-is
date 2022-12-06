@@ -101,4 +101,5 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/eigenvalue.pdf][What Is an Eigenvalue?]]
 - [[https://github.com/higham/what-is/blob/master/nilpotent.pdf][What Is a Nilpotent Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/gershgorin.pdf][What Is Gershgorin's Theorem?]]
+- [[https://github.com/higham/what-is/blob/master/inertia.pdf][What Is the Inertia of a Matrix?]]
 
