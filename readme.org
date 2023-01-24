@@ -104,4 +104,5 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/inertia.pdf][What Is the Inertia of a Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/stochastic.pdf][What Is a Stochastic Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/diagonalizable.pdf][What Is a Diagonalizable Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/trace.pdf][What Is the Trace of a Matrix?]]
 
