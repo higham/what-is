@@ -109,5 +109,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/minpoly.pdf][What Is the Minimum Polynomial of a Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/schur_comp.pdf][What Is the Schur Complement of a Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/numrange.pdf][What Is the Numerical Range of a Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/pinv.pdf][What Is the Pseudoinverse of a Matrix?]]
 
 
