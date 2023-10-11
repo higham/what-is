@@ -111,5 +111,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/numrange.pdf][What Is the Numerical Range of a Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/pinv.pdf][What Is the Pseudoinverse of a Matrix?]]
 - [[https://github.com/higham/what-is/blob/master/flop.pdf][What Is a Flop?]]
+- [[https://github.com/higham/what-is/blob/master/submatrix.pdf][What Is a Submatrix?]]
 
 
