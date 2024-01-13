@@ -114,5 +114,6 @@ The articles are (in order of publication)
 - [[https://github.com/higham/what-is/blob/master/submatrix.pdf][What Is a Submatrix?]]
 - [[https://github.com/higham/what-is/blob/master/inv_sub.pdf][What Is an Invariant Subspace?]]
 - [[https://github.com/higham/what-is/blob/master/hessenberg.pdf][What Is a Hessenberg Matrix?]]
+- [[https://github.com/higham/what-is/blob/master/spec-rad.pdf][What Is the Spectral Radius of a Matrix?]]
 
 
